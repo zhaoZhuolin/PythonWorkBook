@@ -29,8 +29,6 @@ if __name__ == "__main__":
     #格式化字符串format
     print("{0}正在看{1}".format('我',str_val))
     
-
-
     str = "hello,world!"
     print("字符串首字母大写",str.title())
     print("字符串大写",str.upper())
